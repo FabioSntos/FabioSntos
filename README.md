@@ -9,7 +9,7 @@
 🌱 &nbsp;I'm a developer extremely concerned about user experience.\
 ✍️ &nbsp;In my free time, I like to play games and watch series.\
 💬 &nbsp;I'm available for work in the home office mode!.\
-✉️ &nbsp;You can shoot me an email at fabio_santos_2001@outlook.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at fabio_santos_2001@outlook.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 

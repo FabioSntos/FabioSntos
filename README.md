@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying React.js and Node.js.\
+🎓 &nbsp;I'm currently working with Java and SpringBoot.\
 🌱 &nbsp;I'm a developer extremely concerned about user experience.\
 ✍️ &nbsp;In my free time, I like to play games and watch series.\
 💬 &nbsp;I'm available for work in the home office mode!.\
